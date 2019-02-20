@@ -1,0 +1,19 @@
+{
+  "name": "vanillajs",
+  "version": "0.0.1",
+  "description": "A Node CLI designed to create basic file frameworks for node projects.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustEymann/VanillaJS.git"
+  },
+  "author": "August Eymann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AugustEymann/VanillaJS/issues"
+  },
+  "homepage": "https://github.com/AugustEymann/VanillaJS#readme"
+}
